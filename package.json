@@ -1,0 +1,16 @@
+{
+  "name": "web-ts-utils",
+  "version": "1.0.0",
+  "description": "some js and web utils with types",
+  "license": "MIT",
+  "author": {
+    "name": "Alexander L",
+    "email": "xela.votapil@gmail.com"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
